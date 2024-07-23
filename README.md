@@ -1,4 +1,4 @@
-# Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=500&color=13F76C&center=true&width=435&lines=%3EAuberon_Altas;%3ECrip_zay;%3Esomething+else;%3Edoing+stuff)](https://git.io/typing-svg)
 
 ## Here are some ideas to get you started:
 
